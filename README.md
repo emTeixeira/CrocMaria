@@ -85,18 +85,6 @@ VITE_WEBHOOK_URL="https://script.google.com/macros/s/SEU_ID_AQUI/exec"
 
 ---
 
-## Estrutura do Projeto
-
-src/
- ├── assets/
- ├── components/
- ├── hooks/
- ├── lib/
- ├── routes/
- └── utils
-
----
-
 ## Deploy
 
 O projeto pode ser hospedado facilmente utilizando:
