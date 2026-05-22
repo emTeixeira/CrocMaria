@@ -1,5 +1,5 @@
 // src/lib/api.ts
-const WEBHOOK = import.meta.env.VITE_WEBHOOK_URL as string;
+const WEBHOOK = import.meta.env.WEBHOOK_URL as string;
 
 type SheetCell = string | number | boolean | null;
 type SheetRows = SheetCell[][];
